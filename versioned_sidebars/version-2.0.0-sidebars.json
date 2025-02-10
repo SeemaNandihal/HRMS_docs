@@ -1,0 +1,20 @@
+{
+  "sidebar": [
+    "intro",
+    {
+      "type": "category",
+      "label": "HRMS Features",
+      "items": [
+        "HRMS Features/p1-1-homepage",
+        "HRMS Features/p1-2-myaccount",
+        "HRMS Features/p1-3-leavemodule",
+        "HRMS Features/p1-4-attendance",
+        "HRMS Features/p1-5-travel",
+        "HRMS Features/p1-6-timesheet",
+        "HRMS Features/p1-7-performance",
+        "HRMS Features/p1-8-company"
+      ],
+      "collapsed": false
+    }
+  ]
+}

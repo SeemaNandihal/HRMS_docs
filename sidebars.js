@@ -40,16 +40,32 @@ module.exports = {
         'HRMS Features/p1-2-myaccount',
         'HRMS Features/p1-3-leavemodule',
         'HRMS Features/p1-4-attendance',
-        'HRMS Features/p1-5-travel',
-        'HRMS Features/p1-6-timesheet',
-        'HRMS Features/p1-7-performance',
-        'HRMS Features/p1-8-company',
+        'HRMS Features/p1-5-toggltrack',
+        'HRMS Features/p1-6-performance',
+      
+    
+    {
+  
+     type: 'category',
+     label: 'Features',
+     items: [
+
+      'HRMS Features/Features/p1-7-travel',
+      'HRMS Features/Features/p1-8-hotel',
+      'HRMS Features/Features/p1-9-jobvaccancy',
+     ],
+    },
+
+  
+        'HRMS Features/p1-10-employment',
+        'HRMS Features/p1-11-department',
+        'HRMS Features/p1-12-company',
+        'HRMS Features/p1-13-helpdesk',
       ],
-      collapsed: false,  // Ensures the category is expanded by default
+      // collapsed: false,  // Ensures the category is expanded by default
     },
   ],
 };
 
-
-
+  
 export default sidebar;
