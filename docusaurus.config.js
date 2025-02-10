@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HRMS',
+  title: 'HRMS Docs',
   tagline: 'HRMS Docs',
   favicon: 'img/favicon.png',
 
@@ -40,12 +40,26 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+         
           routeBasePath: '/',
+
+          sidebarPath: require.resolve('./sidebars.js'),
+          lastVersion: 'current',
+          versions: {
+            current: {
+              //  label: '2.0.0',
+              // path: '2.0.0',
+               badge: false
+                },
+            },
+            
+
+
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: false,
@@ -79,6 +93,14 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            // dropdownItemsAfter: [{ to: '/versions', label: 'All versions' }],
+            dropdownActiveClassDisabled: true,
+          },
+         
+          
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
