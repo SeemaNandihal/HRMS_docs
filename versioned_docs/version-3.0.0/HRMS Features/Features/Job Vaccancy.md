@@ -1,6 +1,6 @@
 ---
 id: p1-9-jobvaccancy
-sidebar_label: Job Vaccancy
+sidebar_label: Job Vacancy
 title: Job Vaccany
 ---
 
