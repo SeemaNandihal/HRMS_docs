@@ -17,7 +17,9 @@ The Announcements section serves as a central hub for all important company upda
 The Achievements section highlights individual and team accomplishments, such as:
 
 **Employee Recognition:** Celebrate individual or team milestones, work anniversaries, promotions, or outstanding contributions.
+
 **Company Milestones:** Share when the company reaches important goals like revenue targets, successful projects, or community outreach.
+
 **Awards & Recognitions:** Post about any industry or employee awards received.
 
 
