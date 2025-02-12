@@ -1,41 +1,34 @@
-# Website
+# HRMS Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the HRMS (Human Resource Management System) documentation. This site is built using [Docusaurus](https://docusaurus.io/) for easy navigation and maintenance.
+
+## Getting Started
+### Requirements
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Yarn](https://yarnpkg.com/) or npm
 
 ### Installation
+Clone the repository and install dependencies:
+```sh
+git clone https://github.com/your-org/HRMS_docs.git
+cd HRMS_docs
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+npm install  # or yarn install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
+### Running the Site
+Start a local development server:
+```sh
+npm run start  # or yarn start
 ```
-$ yarn build
+Visit `http://localhost:3000/` to view the documentation.
+
+### Building & Deployment
+To build the static site:
+```sh
+npm run build  # or yarn build
 ```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
+To deploy:
+```sh
+npm run deploy  # or yarn deploy
 ```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
