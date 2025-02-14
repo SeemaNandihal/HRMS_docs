@@ -9,7 +9,7 @@ The HRMS User Guide is designed to assist you in navigating and effectively util
 
 **Login Process** 
 
-1. Open your web browser and go to the [HRMS login page](https://bcsfmp.bridgeconn.com/fmi/webd/HRMS). 
+1. Open your web browser and go to the [HRMS login page](https://bcsfmp.bridgeconn.com/fmi/webd/HRMSv3_Frontend). 
 
 2. Enter the username and password you received from the company. 
 
