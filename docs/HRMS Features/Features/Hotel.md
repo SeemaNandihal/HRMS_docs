@@ -9,9 +9,7 @@ Hotel booking provides an option to book or manage hotel accommodations.
 
 To submit a Hotel booking request, follow these steps: 
 
-- Navigate to the **Features** tab
-
-- Select **Hotel** from the options
+- Select **Hotel** from the side navigation panel
 
 - Click on **Hotel Booking** to open the form
 
@@ -26,8 +24,6 @@ The Hotel Booking History section provides a record of past travel requests for 
 
 To access your Hotel Booking History:
 
-- Go to the **Features** tab
-
 - Select **Hotel** from the menu
 
 - Click on **Hotel Booking History** to view your past Hotel Booking  details
@@ -39,7 +35,7 @@ To access your Hotel Booking History:
 
 - The HOD will recommend the request to the Project Admin
 
-- The Project Admin will approve it
+- The Special approval person will approve it
 
 - An email notification will be sent to all relevant roles. 
 

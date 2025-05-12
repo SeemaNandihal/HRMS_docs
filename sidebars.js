@@ -42,25 +42,28 @@ module.exports = {
         'HRMS Features/p1-4-attendance',
         'HRMS Features/p1-5-toggltrack',
         'HRMS Features/p1-6-performance',
+        'HRMS Features/Features/p1-7-travel',
+        'HRMS Features/Features/p1-8-hotel',
+        'HRMS Features/Features/p1-9-recruitment',
       
     
-    {
+    // {
   
-     type: 'category',
-     label: 'Features',
-     items: [
+    //  type: 'category',
+    //  label: 'Features',
+    //  items: [
 
-      'HRMS Features/Features/p1-7-travel',
-      'HRMS Features/Features/p1-8-hotel',
-      'HRMS Features/Features/p1-9-jobvaccancy',
-     ],
-    },
+    //   'HRMS Features/Features/p1-7-travel',
+    //   'HRMS Features/Features/p1-8-hotel',
+    //   'HRMS Features/Features/p1-9-jobvaccancy',
+    //  ],
+    // },
 
   
         'HRMS Features/p1-10-employment',
         'HRMS Features/p1-11-department',
         'HRMS Features/p1-12-company',
-        'HRMS Features/p1-13-helpdesk',
+        'HRMS Features/p1-13-profile',
       ],
       // collapsed: false,  // Ensures the category is expanded by default
     },

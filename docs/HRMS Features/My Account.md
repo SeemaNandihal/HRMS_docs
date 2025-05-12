@@ -10,7 +10,7 @@ This menu lets you to access and update your personal account settings and profi
 
 Here, you can update various details such as personal information, identity details, contact information, qualifications, previous work experience, bank details, and family details.  
 
-After making changes, you have to click **Save Profile Info** to update the profile. 
+The information will be automatically stored after changes are made.
 
 ### Change password 
 
@@ -20,4 +20,6 @@ After making changes, you have to click **Save Profile Info** to update the prof
 - Select **Change Password**
 - Enter a new password following the password policy guidelines
 - Click **Change Password** to save the update
+
+The user will get an option to either stay on HRMS or relogin for a fresh session.
 
