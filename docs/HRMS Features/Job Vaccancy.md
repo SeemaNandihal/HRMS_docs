@@ -1,43 +1,40 @@
 ---
-id: p1-9-jobvaccancy
-sidebar_label: Job Vacancy
-title: Job Vaccany
+id: p1-9-recruitment
+sidebar_label: Recruitment
+title: Recruitment
 ---
 
-The Job Vacancy feature in the HRMS platform simplifies the process of applying 
-for internal job openings and referring qualified candidates from your network.
+The Job Vacancy feature in the HRMS platform simplifies the process of applying for internal job openings and referring qualified candidates from your network.
 Employees can easily browse available positions, review job descriptions, and apply online through the system.
 
 **Applying for a Job**
 
 Follow these steps to apply for an open position within the company:
 
-- Navigate to the Features tab.
+- Navigate to Recruitment
 
-- Click on Job Vacancy.
+- Click on Job Openings
 
-- Select Job Openings.
+- A list of active and inactive job openings will be displayed
 
-- A list of active and inactive job openings will be displayed.
+- Choose the job you wish to apply for
 
-- Choose the job you wish to apply for.
+- Click on the forward-pointing arrow to open the application form
 
-- Click on the forward-pointing arrow to open the application form.
+- Fill in the required details
 
-- Fill in the required details.
-
-- Submit your application.
+- Submit your application
 
 
 **Refer a Friend**
 
 You can refer a qualified candidate for an open position using the Refer a Friend feature:
 
-    - Navigate to the Features tab.
+    - Navigate to the Recruitment
 
-    - Click on Job Vacancy.
-
-    - Select Refer a Friend.
+    - The user has two options - Job openings and Refer a Friend
+    
+    - Select Refer a Friend
 
 You will have access to two options:
 

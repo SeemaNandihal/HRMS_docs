@@ -8,7 +8,7 @@ title: Leave
 
 - Go to the leave module in the HRMS application
 
-- Select the **Add Leave** option 
+- Select the **Apply Leave** option 
 
 - The leave application form will open
 
@@ -26,7 +26,7 @@ title: Leave
 
 - The duty resuming date will auto-fill based on your leave dates
 
-- Click on the **Add Leave** button to submit your request
+- Click on the **Apply Leave** button to submit your request
 
 - A confirmation message will appear stating, **You have successfully applied for a leave and your current leave status is PENDING.** 
 
@@ -54,4 +54,6 @@ The Monthly Leave section gives a clear summary of all leave taken in a specific
 ### Annual Leave Roster 
 
 The Annual Leave Roster helps users plan their entire year’s leave. This overview allows users to manage their leave effectively, track their usage, and plan their leave throughout the year. To add leave click on Annual Leave Roster. The annual leave roster form will appear. Enter the Expected Leave From and Expected Leave To dates, then click Save.
+
+**Users can effortlessly navigate between pages at any time**.
 

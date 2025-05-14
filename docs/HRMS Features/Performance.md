@@ -33,3 +33,7 @@ The Head of Department (HOD) has access to:
 - Review the evaluations provided by the Evaluator.
 - Provide final comments or approvals.
 - This structured appraisal process ensures transparency and accountability while fostering employee growth and organizational improvement.
+
+**HR Review**
+
+- View all submitted appraisals.

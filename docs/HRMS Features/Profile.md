@@ -1,8 +1,10 @@
 ---
-id: p1-13-helpdesk
-sidebar_label: Helpdesk
-title: Helpdesk
+id: p1-13-profile
+sidebar_label: Profile
+title: Profile
 ---
+
+On the right-hand side, you’ll find the profile icon with options for Helpdesk and Logout.
 
 **Accessing the Helpdesk**
 
@@ -12,7 +14,9 @@ The Helpdesk feature provides access to the User Guide and Feedback sections for
 
 To access the user manual:
 
-- Click on the **Helpdesk** icon located at the bottom left of the Home page.
+- Click on the  Profile icon
+
+- Select **Helpdesk**
 
 - Select **User Guide** to open the manual.
 
@@ -22,9 +26,11 @@ To access the user manual:
 
 To share feedback or report an issue with HRMS:
 
-- Click on the **Helpdesk** icon.
+- Click on the Profile Icon
 
-- Select **Feedback** from the menu.
+- Select **Helpdesk** 
+
+- Select **Feedback** 
 
 - Choose either **Suggestion** or **Feedback** based on your input.
 
@@ -33,5 +39,7 @@ To share feedback or report an issue with HRMS:
 - Attach any relevant screenshots or images, if applicable.
 
 - Click **Submit** to send your request.
+
+The user can also view their feedback history.
 
 The technical team will review your submission and provide assistance as needed.

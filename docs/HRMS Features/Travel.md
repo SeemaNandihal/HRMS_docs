@@ -5,7 +5,7 @@ title: Travel
 ---
 
 
-The process of making travel arrangements for employees on business is made easier by HRMS's Travel Requests.  Employees can use this feature to submit travel requests within the HRMS platform, including the destination, dates, and reason for the trip.
+The process of making travel arrangements for employees on business is made easier by HRMS's Travel Requests. Employees can use this feature to submit travel requests within the HRMS platform, including the destination, dates, and reason for the trip.
 
 ### Travel request form
 
@@ -13,9 +13,7 @@ Travel request form allows users to submit a new travel request.
 
 To submit a new travel request using the Travel Request Form, follow these steps:
 
-- Navigate to the **Features** tab
-
-- Select **Travel** from the options
+- Select **Travel** from the side navigation panel
 
 - Click on **Travel Request** to open the form
 
@@ -45,9 +43,9 @@ The Travel History section provides a record of past travel requests for review 
 
 To access your travel history:
 
-- Go to the Features tab
-
 - Select Travel from the menu
 
 - Click on Travel History to view your past travel details
+
+- You can access Travel request history from Travel Request page
 
