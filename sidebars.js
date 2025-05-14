@@ -42,9 +42,9 @@ module.exports = {
         'HRMS Features/p1-4-attendance',
         'HRMS Features/p1-5-toggltrack',
         'HRMS Features/p1-6-performance',
-        'HRMS Features/Features/p1-7-travel',
-        'HRMS Features/Features/p1-8-hotel',
-        'HRMS Features/Features/p1-9-recruitment',
+        'HRMS Features/p1-7-travel',
+        'HRMS Features/p1-8-hotel',
+        'HRMS Features/p1-9-recruitment',
       
     
     // {
